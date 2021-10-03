@@ -10,6 +10,7 @@ Un blog increíble para el curso de Git y Github de Platzi
 * Como aprendi a hacer un branch, merge, commit, pull y push
 * Cosas raras como usar SSH
 * Muchas otras cosas más 
-*apartado para probar cherry-pick
+* apartado para probar cherry-pick
+* otro ejemplo mas de cherry
 
 Recordatorio: **Este readme.md es solo un ejercicio para enseñarme, no  tomes muy enserio lo que escriba aquí.**
