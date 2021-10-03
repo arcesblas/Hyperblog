@@ -12,5 +12,6 @@ Un blog increíble para el curso de Git y Github de Platzi
 * Muchas otras cosas más 
 * apartado para probar cherry-pick
 * otro ejemplo mas de cherry
+* disponible para todas las edades
 
 Recordatorio: **Este readme.md es solo un ejercicio para enseñarme, no  tomes muy enserio lo que escriba aquí.**
